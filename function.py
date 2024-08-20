@@ -18,5 +18,9 @@ def add(x,y):
     print(x+y)
 add(4,5)
 
+def substraction(p,q):
+    print(p-q)
+substraction(25,10)
+
 
 
